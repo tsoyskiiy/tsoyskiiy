@@ -29,15 +29,21 @@ I enjoy building practical software, working with databases, and exploring ways 
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,html,css" alt="Programming Languages" />
 </p>
 
+
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tsoyskiiy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsoyskiiy&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=tsoyskiiy&show_icons=true&theme=transparent&hide_border=true"
+    alt="GitHub Stats"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsoyskiiy&layout=compact&theme=transparent&hide_border=true"
+    alt="Most Used Languages"
+  />
 </div>
-
-<br>
-
 ---
 
 ## 📫 Contact Details
