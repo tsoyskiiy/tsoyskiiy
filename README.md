@@ -52,10 +52,6 @@ I enjoy building practical software, designing APIs, working with databases, and
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/dtsxy">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://t.me/tsxyskiy">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" alt="Telegram" />
   </a>
