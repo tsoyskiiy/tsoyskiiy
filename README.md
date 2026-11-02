@@ -59,6 +59,5 @@ I enjoy building practical software, designing APIs, working with databases, and
 
 <p>
   <a href="mailto:tsoyskiiy@gmail.com">Email</a> ·
-  <a href="https://www.instagram.com/dtsxy">Instagram</a> ·
   <a href="https://t.me/tsxyskiy">Telegram</a>
 </p>
